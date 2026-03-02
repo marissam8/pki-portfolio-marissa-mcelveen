@@ -11,4 +11,4 @@ Focus on:
 - How trust is established
 
 
-PKI is a system that establishes trust before encryption. It enforcing a series of "checks and balances" to ensure encryption is not misdirected and goes to the right recipient. The trust is that information that is provided avoids a single point of failure by introducing a trusted party to validate all information provided.
+PKI is a system that establishes trust before encryption by enforcing a series of "checks and balances". This series ensures encryption is not misdirected and avoids a single point of failure by introducing a trusted entity to validate information provided. 
