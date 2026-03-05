@@ -15,19 +15,19 @@ assets/screenshots/week-01/certificate-inspection.png
 ## Website Information
 
 **Website inspected:**  
-<!-- Enter full URL -->
+(https://digitalomni.navyfederal.org/signin/)
 
 **Issuer (Certificate Authority):**  
-<!-- Example: DigiCert, Let's Encrypt, GlobalSign -->
+DigiCert Inc
 
 **Valid from:**  
-<!-- Start date -->
+Thursday, May 22, 2025 
 
 **Valid until:**  
-<!-- Expiration date -->
+Friday, May 22, 2026 
 
 **Signature algorithm:**  
-<!-- Example: sha256WithRSAEncryption -->
+ECDSA Signature with SHA-384 ( 1.2.840.10045.4.3.3 )
 
 ---
 
@@ -35,8 +35,8 @@ assets/screenshots/week-01/certificate-inspection.png
 
 List at least 2–3 SAN entries:
 
-- 
-- 
+- digitalomni.navyfederal.org
+- www.digitalomni.navyfederal.org
 - 
 
 ---
@@ -46,13 +46,15 @@ List at least 2–3 SAN entries:
 Document three observations about the certificate.
 
 ### Observation 1
-<!-- What did you notice? -->
+I noticed that when I orignially selected the encryptic connection for Mac, There are three 
+certifications shown -the root, the intermediate and the Website SSL Certificate
 
 ### Observation 2
-<!-- What did you notice? -->
+I observed the intermedite certificate has a longer validation period. This domain has a year in 
+comparison to the intermediate of ten years.
 
 ### Observation 3
-<!-- What did you notice? -->
+I also observed that the signature algorithm are identical.
 
 ---
 
@@ -60,4 +62,4 @@ Document three observations about the certificate.
 
 Based on your inspection, explain how this certificate contributes to secure HTTPS communication.
 
-(2–3 sentences)
+The certificate confirms that the website belongs to the domain you are visiting. The browser checks it with a trusted CA to ensure the site is legitimate and not an impersonator.
