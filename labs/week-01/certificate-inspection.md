@@ -35,9 +35,9 @@ ECDSA Signature with SHA-384 ( 1.2.840.10045.4.3.3 )
 
 List at least 2–3 SAN entries:
 
-- digitalomni.navyfederal.org
-- www.digitalomni.navyfederal.org
-- 
+- www.navyfederal.org
+- search-dal.navyfederal.org
+- search-prod.navyfederal.org
 
 ---
 
