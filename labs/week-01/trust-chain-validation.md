@@ -16,32 +16,31 @@ Embed the screenshot below:
 ## Website Information
 
 **Website inspected:**  
-<!-- Enter full URL -->
+https://www.pepco.com
 
 ---
 
 ## Certificate Chain Breakdown
 
 **Leaf (Server) Certificate**  
-<!-- Enter Common Name or Subject -->
+www.pepco.com
 
 **Intermediate Certificate Authority**
-<!-- Enter Intermediate CA name -->
+GeoTrust TLS RSA CA G1
 
 **Root Certificate Authority (Trust Anchor)**
-<!-- Enter Root CA name -->
+DigiCert Global Root G2
 
 ---
 
 ## Trust Anchor Verification
 
 Is the Root CA marked as trusted by your system?
-
-<!-- Yes / No -->
+Yes
 
 If yes, explain where that trust comes from (OS/browser root store).
 
-If no, explain what warning or behavior occurred.
+A Root CA is like a trusted authority that approves certificates. My computer has that authority on its trusted list, it will trust the certificates it issues.
 
 ---
 
@@ -50,13 +49,14 @@ If no, explain what warning or behavior occurred.
 Document three observations about the certificate.
 
 ### Observation 1
-<!-- What did you notice about the chain structure? -->
+I noticed that thee root is at the top of the chain just like in the lesson which reconfirms mental and visual validation.
+Trust flows down and validation walks up.
 
 ### Observation 2
-<!-- What did you notice about the Root CA? -->
+The Root CA validation period is much longer than that of the intermediate and leaf certifications
 
 ### Observation 3
-<!-- What did you notice about how the browser determines trust? -->
+If the certificate is trusted and all checks pass, users sees a lock icon in the browser and the site loads securely with no warnings
 
 ---
 
@@ -67,4 +67,5 @@ In 3–5 sentences, explain:
 - How validation walks the certificate chain
 - What would happen if the Root CA were not trusted
 
-Use your own words.
+It’s called a trust anchor because it’s the certificate the system starts with when deciding whether other certificates can be trusted. If the root is trusted, everything connected (other lower level certificates) to it can be trusted. The validation of the starts at the leaf certificate then up to the root again; checking things such as signatures, if chain reaches the trust root, the expiration and matching host names. If the Root CA is not trusted like something fails, the browser shows a security warning. 
+
