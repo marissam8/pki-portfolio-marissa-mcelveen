@@ -13,7 +13,6 @@ If using OpenSSL:
 3. Embed the screenshot below:
 
 **![Key Pair Generation](../../assets/screenshots/week-01/keypair-generation.png)**
-**![Key Pair Generation](../../assets/screenshots/week-01/keypair-generation01.png)**
 
 If using a browser-based generator, capture the generated key pair screen (redact sensitive portions of the private key before committing).
 
