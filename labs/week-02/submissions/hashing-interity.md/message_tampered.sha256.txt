@@ -1,0 +1,1 @@
+SHA256(labs/week-02/submissions/hashing-interity.md/message.txt)= ffcad6902c4f347d9561b81c088fe142f4d82e58beaf41b97548392918dae572
