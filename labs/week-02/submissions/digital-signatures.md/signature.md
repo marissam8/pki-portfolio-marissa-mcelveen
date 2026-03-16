@@ -34,7 +34,7 @@ Describe what you actually did.
 Include the important outputs or findings from the lab.
 If you include screenshots, store them in the **assets folder** and reference them here.
 
-![Signature Output](../../assets/screenshots/week-02/digital-signature.png)
+![Certificate Inspection](../../assets/screenshots/week-02/digital-signature.png)
 
 ---
 
