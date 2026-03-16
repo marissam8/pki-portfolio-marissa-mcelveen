@@ -30,7 +30,7 @@ Describe what you actually did.
 
 ## Results
 Include the important outputs or findings from the lab.
-![Certificate Inspection](../../assets/screenshots/week-02/symmetric-encrytion.png)
+![Encryption Output](../../assets/screenshots/week-02/symmetric-encrytion.png)
 
 ---
 

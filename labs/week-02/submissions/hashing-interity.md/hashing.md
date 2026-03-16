@@ -34,7 +34,7 @@ Include the important outputs or findings from the lab.
 If you include screenshots, store them in the **assets folder** and reference them here.
 
 
-![Certificate Inspection](../../assets/screenshots/week-02/hashing-integrity.png)
+![Hashing Output](../../assets/screenshots/week-02/hashing-integrity.png)
 
 ---
 
