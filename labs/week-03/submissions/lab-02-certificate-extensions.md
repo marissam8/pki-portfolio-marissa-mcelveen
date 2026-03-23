@@ -32,7 +32,7 @@ TLS Web Server Authentication
 Paste the value from your output:
 CA:FALSE
 ---
-
+ 
 ## Observations
 
 1. The domains that appear in the SAN field were attached to a wildcard and google related such as *.google.co.in, DNS:*.google.co.jp, DNS:*.google.co.uk, DNS:*.google.com.ar, DNS:*.google.com.au, DNS:*.google.com.br, DNS:*.google.com.co, DNS:*.google.com.mx, DNS:*.google.com.tr

@@ -48,8 +48,8 @@ Authentication and Trust Verification
 
 ## 4. Common Misconceptions
 
-- Misconception 1
-- Misconception 2
+- That there is a grace period for the validity period. Once the certification expires, that cert is dead and so is the trust tied to it.
+- A certification is only allowed to do what it is configured to do via the certificate exentions. Even if all other fields are valid.
 
 ---
 

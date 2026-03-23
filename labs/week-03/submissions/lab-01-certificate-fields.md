@@ -10,6 +10,7 @@ of the certificate's anatomy is important to investigate to prevent impersonatio
 - Terminal Used: Integrated terminal in Visual Studio Code (zsh shell)
 - OpenSSL Version (if applicable): LibreSSL 3.3.6
 
+
 ---
 
 ## Certificate Fields

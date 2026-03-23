@@ -5,7 +5,7 @@
 This lab develops practical insight into common certificate misconfigurations that lead to TLS failures. I will observe certificate scenarios &determine the reason each certificate would fail validation. These misconfigurations are a common cause of real-world outages. I will be identifying issues invloving: expired certifictes, missing intermediate certificates, missing SANS subject alternative name, and incorrect key usage.
 
 
----
+--- 
 
 ## Scenario 1 — Missing Subject Alternative Name
 
