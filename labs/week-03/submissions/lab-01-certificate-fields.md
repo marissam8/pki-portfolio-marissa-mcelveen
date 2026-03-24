@@ -3,15 +3,13 @@
 ## Overview
 Inspect the structure of a X.509 Certificate. Observe and identify the core fields that authenticate a certificate's identity. The componenets 
 of the certificate's anatomy is important to investigate to prevent impersonation and enforce authentication.
----
+
 
 ## Environment
 - Operating System: macOS
 - Terminal Used: Integrated terminal in Visual Studio Code (zsh shell)
 - OpenSSL Version (if applicable): LibreSSL 3.3.6
 
-
----
 
 ## Certificate Fields
 
