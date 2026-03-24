@@ -5,13 +5,11 @@
 
 The foundational concept of this week was the certificate structure. In real-world systems for certificates, X.509 is the industry standard for digital certificates.
 They are the core building block of PKI. Certificates enable trust, encryption and identity verification across systems. Identifying and understanding the core fields are essential to solving misconfigurations, validation issues, authentication errors and the like. 
----
 
 ## 2. Why It Matters
 
 This concept appears in real enterprise environments such as TLS failures, host mismatches, and or application outages. For instance, if a certification validity period expires, every application associated with that certification loses the trusted connection
 
----
 
 ## 3. Technical Breakdown
 
@@ -44,14 +42,13 @@ Digital certificates are not permanent. Like physical identification cre
 Authentication and Trust Verification
 	Public Key Infrastructure is designed to allow systems to verify digital identities before granting access.
 	In PKI modern systems, authentication uses digital certs and cryptographic keys. 
----
+
 
 ## 4. Common Misconceptions
 
 - That there is a grace period for the validity period. Once the certification expires, that cert is dead and so is the trust tied to it.
 - A certification is only allowed to do what it is configured to do via the certificate exentions. Even if all other fields are valid.
 
----
 
 ## 5. Where This Shows Up
 
@@ -60,7 +57,6 @@ Authentication and Trust Verification
 - Cloud environments
 - DevOps workflows
 
----
 
 ## Mental Model
 
