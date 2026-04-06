@@ -1,0 +1,24 @@
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: 1799A804C16FE42D70A80A103D03D3E91AB82663
+    Produced At: Apr  2 10:10:14 2026 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: B70E1256A2619B389154FE9CB9F0168E07A68C0B
+      Issuer Key Hash: 1799A804C16FE42D70A80A103D03D3E91AB82663
+      Serial Number: 1DC289C1EADAFB04E9D1CF53D5D72253
+    Cert Status: good
+    This Update: Apr  2 10:10:14 2026 GMT
+    Next Update: Apr  9 10:10:13 2026 GMT
+
+    Signature Algorithm: ecdsa-with-SHA256
+         30:44:02:20:1f:18:b9:19:c7:ac:67:30:23:d6:6c:b0:dd:24:
+         9a:8e:68:b6:30:48:be:ff:83:1a:9f:55:90:fa:47:df:e4:99:
+         02:20:38:17:aa:86:0c:5c:88:22:8d:79:7b:49:08:c1:aa:47:
+         2e:38:17:d2:e7:18:32:66:c4:35:87:b5:71:2b:31:73
+labs/week-05/submissions/revocation-status/leaf_cert.pem: good
+	This Update: Apr  2 10:10:14 2026 GMT
+	Next Update: Apr  9 10:10:13 2026 GMT
