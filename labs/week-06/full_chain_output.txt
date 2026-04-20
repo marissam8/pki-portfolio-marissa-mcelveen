@@ -1,0 +1,184 @@
+CONNECTED(00000006)
+---
+Certificate chain
+ 0 s:C=US, ST=California, L=San Francisco, O=Salesforce, Inc., CN=salesforce.com
+   i:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   a:PKEY: EC, (prime256v1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Mar 18 00:00:00 2026 GMT; NotAfter: Oct  2 23:59:59 2026 GMT
+-----BEGIN CERTIFICATE-----
+MIIJwzCCCUmgAwIBAgIQCTVxNZAjAF+Z+x+gYJ5iQzAKBggqhkjOPQQDAzBZMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypEaWdp
+Q2VydCBHbG9iYWwgRzMgVExTIEVDQyBTSEEzODQgMjAyMCBDQTEwHhcNMjYwMzE4
+MDAwMDAwWhcNMjYxMDAyMjM1OTU5WjBuMQswCQYDVQQGEwJVUzETMBEGA1UECBMK
+Q2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQU2Fs
+ZXNmb3JjZSwgSW5jLjEXMBUGA1UEAxMOc2FsZXNmb3JjZS5jb20wWTATBgcqhkjO
+PQIBBggqhkjOPQMBBwNCAAS08gjNh7k4dxjD9fPycqdKkj5jWYTQxq9Hnz0kXQ9l
+e1yqALhmMnKQX91lCz/WyKr/Nqvm/+bFlykX4OUa7Jj0o4IH3DCCB9gwHwYDVR0j
+BBgwFoAUiiPrnmvX+Tdd+W0hOXaaoWfeEKgwHQYDVR0OBBYEFNZt/9HhMPWb4FMw
+7GnHl/zcDSccMIIEagYDVR0RBIIEYTCCBF2CDnNhbGVzZm9yY2UuY29tgg9hZ2Vu
+dGJsYXplci5jb22CDGFza21vcmVvZi5haYIPYXNrbW9yZW9mYWkuY29tggxhc3Np
+c3RseS5jb22CDWF0b25pdC5jb20uYnKCDmF0b25pdC5kaWdpdGFsgghhdHRpYy5p
+b4IOYnVkZHltZWRpYS5jb22CC2NoYXR0ZXIuY29tghZjaGF0dGVyLnNhbGVzZm9y
+Y2UuY29tghFjbGlja3NvZnR3YXJlLmNvbYIQY2xvdWRjb25uZWN0LmNvbYIOY2xv
+dWRjcmF6ZS5jb22CC2NvdHdlZXQuY29tghRjcmVkZW50aWFsbWFzdGVyLmNvbYII
+ZGF0YS5jb22CDmRlbWFuZHdhcmUuY29tgghkZXNrLmNvbYIRZG9jdW1lbnRmb3Jj
+ZS5jb22CDmRyZWFtZm9yY2UuY29tggxlaW5zdGVpbi5jb22CCWZvcmNlLmNvbYIM
+Z292Zm9yY2UuY29tgg9ncmF2aXR5dGFuay5jb22CDGdyaWRkYWJsZS5pb4ILaGV5
+d2lyZS5jb22CCGtydXguY29tggxsZXZlbGp1bXAuaW+CFWxldmVsanVtcHNvZnR3
+YXJlLmNvbYIPbWFwYW55dGhpbmcuY29tghJtYXJrZXRpbmdjbG91ZC5jb22CCm1v
+YmlmeS5jb22CCnBhcmRvdC5jb22CDHF1b3RhYmxlLmNvbYILcmFkaWFuNi5jb22C
+DHJlbGF0ZWlxLmNvbYIPc2FsZXNibGF6ZXIuY29tgg1zYWxlc2ZvcmNlLmRlghlz
+YWxlc2ZvcmNlY29ubmVjdGlvbnMuY29tghBzYWxlc2ZvcmNlaXEuY29tghxzYWxl
+c2ZvcmNlbWFya2V0aW5nY2xvdWQuY29tggxzZXF1ZW5jZS5jb22CEXNlcnZpY2Vi
+bGF6ZXIuY29tgg5zZmRjc3RhdGljLmNvbYIKc2ZvcmNlLmNvbYIIc2l0ZS5jb22C
+CnNvY2lhbC5jb22CDnN0ZWVsYnJpY2suY29tggt0b29waGVyLmNvbYIUdHJhY3Rp
+b25vbmRlbWFuZC5jb22CDnRyYWlsaGVhZHguY29tgg10d2lucHJpbWUuY29tghB2
+YWNjaW5lY2xvdWQuY29tggt2bG9jaXR5LmFwcIIKdmxvY2l0eS5jaIILdmxvY2l0
+eS5jb22CCnZsb2NpdHkuZGWCCnZsb2NpdHkuZnKCCnZsb2NpdHkuaW6CDHZsb2Np
+dHkuaW5mb4IKdmxvY2l0eS5pb4IKdmxvY2l0eS5pdIIKdmxvY2l0eS5tZYIKdmxv
+Y2l0eS5ubIIOdmxvY2l0eS5vbmxpbmWCCnZsb2NpdHkucGyCEHZsb2NpdHkuc29m
+dHdhcmWCEXZsb2NpdHkuc29sdXRpb25zggx2bG9jaXR5LnRlY2iCEnZsb2NpdHku
+dGVjaG5vbG9neYIKdmxvY2l0eS51c4IPd2VpbnZvaWNlaXQuY29tMD4GA1UdIAQ3
+MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQu
+Y29tL0NQUzAOBgNVHQ8BAf8EBAMCA4gwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0
+LmNvbS9EaWdpQ2VydEdsb2JhbEczVExTRUNDU0hBMzg0MjAyMENBMS0yLmNybDBI
+oEagRIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNU
+TFNFQ0NTSEEzODQyMDIwQ0ExLTIuY3JsMIGHBggrBgEFBQcBAQR7MHkwJAYIKwYB
+BQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcwAoZFaHR0
+cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzNUTFNFQ0NT
+SEEzODQyMDIwQ0ExLTIuY3J0MAwGA1UdEwEB/wQCMAAwggF9BgorBgEEAdZ5AgQC
+BIIBbQSCAWkBZwB2AMIxfldFGaNF7n843rKQQevHwiFaIr9/1bWtdprZDlLNAAAB
+nP/PnYkAAAQDAEcwRQIgHLYRoTIarnuBiX0LIgm3S9XODjT6atzYwM2qcfFl3h0C
+IQCw0h9XDxI/G6jlcYX0ajfYwOnFJtfypCqhrkodDPyWBAB1ANdtfRDRp/V3wsfp
+X9cAv/mCyTNaZeHQswFzF8DIxWl3AAABnP/PnXsAAAQDAEYwRAIgSg29bjnnCUOT
+/zjtZospGT6AgVTqFFmxUWOwibiEWJcCIE90iX6Ch2CB6v7smsIUdEZIN/BQvERR
+sdepVMD9BBrRAHYAlE5Dh/rswe+B8xkkJqgYZQHH0184AgE/cmd9VTcuGdgAAAGc
+/8+dlwAABAMARzBFAiApllcJyrA+QBzTWDtBlh95SAWEJhIApqSv/isPSbW9agIh
+AJmM0gDIH89IZRjwCLJyXfBJQUBnkaiZk6gfmFJPUbKiMAoGCCqGSM49BAMDA2gA
+MGUCMDyyzOmtywV6RsSgpmU7SMwZNCLpY7dPbXtI0GUkncaADJB7MQYaHm5KEoL/
+iI9rxwIxAMp2vPfKBX9kq2yfswKIsmXw/xj3Vr3YxjLqqE2d3j45t3sjXv0s2deP
+mLZhluJsPQ==
+-----END CERTIFICATE-----
+ 1 s:C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+   i:C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+   a:PKEY: EC, (secp384r1); sigalg: ecdsa-with-SHA384
+   v:NotBefore: Sep 24 00:00:00 2020 GMT; NotAfter: Sep 23 23:59:59 2030 GMT
+-----BEGIN CERTIFICATE-----
+MIIDpjCCAyugAwIBAgIQDTYMRISRziTtCzVA2HCg3TAKBggqhkjOPQQDAzBhMQsw
+CQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cu
+ZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBHMzAe
+Fw0yMDA5MjQwMDAwMDBaFw0zMDA5MjMyMzU5NTlaMFkxCzAJBgNVBAYTAlVTMRUw
+EwYDVQQKEwxEaWdpQ2VydCBJbmMxMzAxBgNVBAMTKkRpZ2lDZXJ0IEdsb2JhbCBH
+MyBUTFMgRUNDIFNIQTM4NCAyMDIwIENBMTB2MBAGByqGSM49AgEGBSuBBAAiA2IA
+BHipnHWuiF1jpK1dhtgQSdavklljQyOF9EhlMM1KNJWmDj7ZfAjXVwUoSJ4Lq+vC
+05ae7UXSi4rOAUsXQ+Fzz21zSDTcAEYJtVZUyV96xxMH0GwYF2zK28cLJlYujQf1
+Z6OCAa4wggGqMB0GA1UdDgQWBBSKI+uea9f5N135bSE5dpqhZ94QqDAfBgNVHSME
+GDAWgBSz20ik+aHF2K42QcwRY2liKbxLxjAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMBIGA1UdEwEB/wQIMAYBAf8CAQAwdgYI
+KwYBBQUHAQEEajBoMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5j
+b20wQAYIKwYBBQUHMAKGNGh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdp
+Q2VydEdsb2JhbFJvb3RHMy5jcnQwewYDVR0fBHQwcjA3oDWgM4YxaHR0cDovL2Ny
+bDMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsUm9vdEczLmNybDA3oDWgM4Yx
+aHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsUm9vdEczLmNy
+bDAwBgNVHSAEKTAnMAcGBWeBDAEBMAgGBmeBDAECATAIBgZngQwBAgIwCAYGZ4EM
+AQIDMAoGCCqGSM49BAMDA2kAMGYCMQCTUGOoO+GwNHGjj/9M9Cf1olbXqQ+n3EDD
+4DQQnbp129nZcbNUqbEzkxZzz+LdVi8CMQCFl7VnPXSwYsHvbaIlaB7JG6EikxcY
+7LX35CV+ypuVTbKZkjATTvROgmL5AgTbsAg=
+-----END CERTIFICATE-----
+---
+Server certificate
+subject=C=US, ST=California, L=San Francisco, O=Salesforce, Inc., CN=salesforce.com
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ecdsa_secp256r1_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3831 bytes and written 1625 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Protocol: TLSv1.3
+Server public key is 256 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: FAB9173C42DB248894096956BF81C98ECB591DB3F330F56A395FF91C2243E28B
+    Session-ID-ctx: 
+    Resumption PSK: 9A0E02727F348D8932C75ECA4BC41A52B45A5974E90EB91793DB2E30F1A378F2EBFD9BEAE0364E81D1082928287788E1
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 83100 (seconds)
+    TLS session ticket:
+    0000 - 00 00 fb e5 ad ec 48 7b-f3 6a 2b 4d 12 fb 67 c5   ......H{.j+M..g.
+    0010 - bc 93 c0 4d 0e 19 10 76-bb 78 a6 fb 3c 4c a5 36   ...M...v.x..<L.6
+    0020 - 3a 1d 82 d1 20 16 6c 01-7b e5 f7 58 cd d4 47 d5   :... .l.{..X..G.
+    0030 - c0 e0 25 7e 11 62 79 52-97 31 db 0e af 06 83 03   ..%~.byR.1......
+    0040 - 86 69 52 f9 42 3f 3f 1e-c1 9b 03 1b c9 fb 1b 77   .iR.B??........w
+    0050 - 0c 32 cc 3c 02 b1 7c ef-5a 2b 5e 08 a0 25 33 fa   .2.<..|.Z+^..%3.
+    0060 - d2 9b 63 f9 99 e5 65 14-cf cd 4c 2c 1d 17 6a 15   ..c...e...L,..j.
+    0070 - 90 95 94 c5 f6 d9 f6 f1-34 06 2b d2 ac cc a4 e1   ........4.+.....
+    0080 - 81 9d 0e e9 a2 f6 29 e8-0e 3c 35 1d 22 17 d7 69   ......)..<5."..i
+    0090 - 48 8d 6a ce a0 e9 5a e3-6a f1 da 9a ca 8b ec 98   H.j...Z.j.......
+    00a0 - 7a 94 52 3e 34 f4 fd a0-3c f6 0d 12 d9 b5 a6 0e   z.R>4...<.......
+    00b0 - 09 06 72 75 8f 18 c3 4c-19 52 ce 2f d9 b6 14 73   ..ru...L.R./...s
+    00c0 - 8b fd 8c b2 d3 c5 b7 30-44 27 75 88 6f 0d 53 28   .......0D'u.o.S(
+    00d0 - c3 4d 68 5f 97 da ac 47-1b f5 38 ea 6c 89 db 1d   .Mh_...G..8.l...
+    00e0 - c7 38 82 76 0c 05 5d 1d-74 78 4d ed e5 5b f6 b6   .8.v..].txM..[..
+
+    Start Time: 1776628787
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: AAB173A77270D0400484A1D4893BC1B0AEFF2E8F3DAF4AB890FCAD14BC2E2CBE
+    Session-ID-ctx: 
+    Resumption PSK: 44D48E3E8BF051A6D7F17D09465F4AA4F724C1AAC9AA174832F4495E7F38DD50748F386B6BA0FADBD5006089A98EA4EA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 83100 (seconds)
+    TLS session ticket:
+    0000 - 00 00 fb e5 ad ec 48 7b-f3 6a 2b 4d 12 fb 67 c5   ......H{.j+M..g.
+    0010 - 99 48 01 cf d9 e3 75 99-ec b0 b3 3a 93 e9 36 e9   .H....u....:..6.
+    0020 - d9 d9 d0 2a 28 04 fb 72-8a c6 1f b9 09 a7 0f 5f   ...*(..r......._
+    0030 - a6 5b e4 cf 36 f8 71 ff-5c 55 22 b5 68 3a 17 77   .[..6.q.\U".h:.w
+    0040 - 96 16 de e5 d9 4c 34 e0-49 a3 ca 1c 62 86 70 a3   .....L4.I...b.p.
+    0050 - 5c 70 af e2 46 d3 e4 fd-26 ea b3 39 d5 f6 e4 b2   \p..F...&..9....
+    0060 - ce 2d 7e ce 8f 77 4b 49-0e 59 45 67 37 14 8d 31   .-~..wKI.YEg7..1
+    0070 - e7 c4 36 ba c7 44 d3 6c-aa 06 2c 97 c3 3b 60 2f   ..6..D.l..,..;`/
+    0080 - e8 72 a7 62 f6 d1 8b 9d-0c 50 c2 3e 64 48 4a 6d   .r.b.....P.>dHJm
+    0090 - b8 ff 63 0f 25 e0 ba 84-02 13 4f 31 a3 3f e3 59   ..c.%.....O1.?.Y
+    00a0 - e9 cc 91 53 73 b4 e1 e3-ed 52 67 ee 0c f6 3b 7a   ...Ss....Rg...;z
+    00b0 - 91 1c 23 8b b5 a3 6a 03-60 8f 0d 14 79 90 d9 d6   ..#...j.`...y...
+    00c0 - b8 59 df d2 06 ac e9 3f-6e 0c a5 2c 99 35 cb b2   .Y.....?n..,.5..
+    00d0 - 0d 1f ad 4c fc 56 a5 42-75 65 d8 d8 5f d5 a6 e8   ...L.V.Bue.._...
+    00e0 - 3c 9f 9f 5d a0 ab 1c 1e-cd 21 7c 2c 63 11 55 78   <..].....!|,c.Ux
+
+    Start Time: 1776628787
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+closed
