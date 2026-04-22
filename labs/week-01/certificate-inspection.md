@@ -29,7 +29,7 @@ Friday, May 22, 2026
 **Signature algorithm:**  
 ECDSA Signature with SHA-384 ( 1.2.840.10045.4.3.3 )
 
----
+
 
 ## Subject Alternative Names (SAN Entries)
 
@@ -39,7 +39,7 @@ List at least 2–3 SAN entries:
 - search-dal.navyfederal.org
 - search-prod.navyfederal.org
 
----
+
 
 ## Observations
 
@@ -56,7 +56,7 @@ comparison to the intermediate of ten years.
 ### Observation 3
 I also observed that the signature algorithm are identical.
 
----
+
 
 ## Reflection
 
